@@ -107,3 +107,8 @@ html, body {
 .padding {
     background-color: darkslateblue;
 }
+
+.fix {
+    display: flex;
+    flex-direction: row;
+}
