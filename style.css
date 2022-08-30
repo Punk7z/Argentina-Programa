@@ -102,6 +102,10 @@ html, body {
 
 .progress {
     width: 50%;
+<<<<<<< HEAD
+=======
+    padding-left: 10px;
+>>>>>>> 2b7fc657b376e34c7b78e8421d2cfa42943da965
 }
 
 .padding {
