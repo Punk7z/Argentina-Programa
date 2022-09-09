@@ -105,9 +105,6 @@ html, body {
     width: 50%;
 }
 
-.padding {
-    
-
 .fix {
     display: flex;
     flex-direction: row;
@@ -156,6 +153,7 @@ hr {
         filter: hue-rotate(360deg);
     }
 }
+
 #progressbar:before{
     content: '';
     position: absolute;
